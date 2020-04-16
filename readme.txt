@@ -1,0 +1,1 @@
+spcp using .net core
